@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 2021.01 ~ 2021.06: boostcamp AI Tech mentor 
+- 2021.01 ~ 2021.03: kaggle VinBigData competition top 2%
+- 2020.07 ~        : vllab (Vision and Learning Laboratory) student
