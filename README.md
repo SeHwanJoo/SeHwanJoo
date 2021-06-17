@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 2021.03 ~ 2021.05: kaggle Shopee competition, top 6%
 - 2021.01 ~ 2021.06: boostcamp AI Tech mentor 
-- 2021.01 ~ 2021.03: kaggle VinBigData competition top 2%
+- 2021.01 ~ 2021.03: kaggle VinBigData competition, top 2%
 - 2020.07 ~        : vllab (Vision and Learning Laboratory) student
