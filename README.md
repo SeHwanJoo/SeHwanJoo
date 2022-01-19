@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 - 2021.11 ~ 2022.01: kaggle Petfinder.my competition, top 1%
 - 2021.08 ~ 2021.11: kaggle chaii competition, top 1% (gold)
+- 2021.07 ~  현재  : Nuvilabs AI research Engineer
 - 2021.03 ~ 2021.05: kaggle Shopee competition, top 6%
-- 2021.01 ~ 2021.06: boostcamp AI Tech mentor 
+- 2021.01 ~  현재  : boostcamp AI Tech mentor 
 - 2021.01 ~ 2021.03: kaggle VinBigData competition, top 2%
 - 2020.07 ~        : vllab (Vision and Learning Laboratory) student
